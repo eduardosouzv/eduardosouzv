@@ -1,2 +1,2 @@
 ### Hi, I'm Eduardo! 👋
-[LinkedIn](https://www.linkedin.com/in/eduardosouzv/) 
+<a href="https://www.linkedin.com/in/eduardorsouza/" target="_blank">LinkedIn</a>
